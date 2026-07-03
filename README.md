@@ -1,4 +1,4 @@
-# ⚽ AI-Based Football Scouting: Evaluate Player Performance & Transfer Suitability using XGBoost
+# AI-Based Football Scouting: Evaluate Player Performance & Transfer Suitability using XGBoost
 
 An AI-powered football scouting system that objectively evaluates player performance and predicts transfer suitability using machine learning and high-resolution football event data.
 
