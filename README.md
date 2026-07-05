@@ -78,7 +78,7 @@ streamlit run app.py
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ai-football-scout.git
+git clone https://github.com/HADIJJM/ai-football-scout.git
 cd ai-football-scout
 ```
 
